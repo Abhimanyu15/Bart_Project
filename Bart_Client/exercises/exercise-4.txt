@@ -1,0 +1,9 @@
+Exercise 4
+
+1. Solve world hunger. (Just kidding)
+
+2. Solve world peace. (Just kidding)
+
+3. Pass your array of cars as props to CarTool.
+
+4. Validate the array of cars using PropTypes. For the PropType validation, please use arrayOf and shape to validate the array of cars. Also, mark the array as required.

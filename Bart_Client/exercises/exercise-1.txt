@@ -1,0 +1,12 @@
+Exercise 1
+
+1. Create a new component named CarTool in the components folder.
+
+2. In the component CarTool display a header element which wraps an h1 element. The h1 element should have Car Tool as the content.
+
+3. Import the CarTool component into index.js. Display both the HelloWorld and CarTool on the page at the same time. Place the CarTool beneath HelloWorld.
+
+ReactDOM.render(ReactElement, DOMElement);
+ReactDOM.render(<HelloWorld />, domElement);
+
+4. Ensure it works.

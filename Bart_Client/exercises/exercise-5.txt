@@ -1,0 +1,7 @@
+Exercise 5
+
+1. Use destructuring to access the cars array in CarTool.
+
+2. Setup a default prop on CarTool to initialize the array of cars to an empty.
+
+3. Ensure it works.

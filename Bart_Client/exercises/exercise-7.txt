@@ -1,0 +1,16 @@
+Exercise 7
+
+1. Utilize ToolHeader in Car Tool.
+
+2. Create a new component named Car Table. Move the table element and it's children from Car Tool to the new Car Table component. Be sure to specify propTypes and reasonable default props on Car Table. Then utilize Car Table in Car Tool.
+
+3. Move the table row for the car data in Car Table component to a new component named Car View Row. Car View Row component should display all of the fields of the car in a table row.
+
+4. Utilize Car View Row component in Car Table to display the car data.
+
+5. Add a new column to the Car Table with a header of Actions.
+
+Bonus 6. In the Car View Row component, in the new column, add a delete button. When the delete button is clicked delete the car from the array of cars in Car Tool.
+
+7. Ensure it all works.
+

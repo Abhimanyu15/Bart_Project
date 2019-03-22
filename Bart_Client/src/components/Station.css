@@ -1,0 +1,34 @@
+.define-bounty-component {
+  padding: 20px;
+}
+
+
+
+.define-bounty-component .cell-positive {
+  background-color: #15B371;
+  padding: 5px 10px;
+  border-radius: 3px;
+  color: #fff;
+  display: inline-block;
+}
+
+.define-bounty-component .cell-negative {
+  background-color: #DB3737;
+  padding: 5px 10px;
+  border-radius: 3px;
+  color: #fff;
+  display: inline-block;
+}
+
+.define-bounty-component .line{
+  border-bottom: solid 1px #CED9E0;
+}
+
+.button-div{
+  display: inline-block !important;
+  margin-left: 50px;
+}
+/* .k-grid tbody td {
+  padding: 0;
+  /* line-height: 15px; 
+} */

@@ -1,0 +1,9 @@
+Exercise 3
+
+1. In the CarTool component define an array of car objects. Each object should have an id, make, model, year, color and a price. You are welcome to use the same car data from the hard coded car table from the last exercise.
+
+2. Remove the two hard coded rows of car data and replace them with dynamically generated rows from the array of cars.
+
+Ignore the key error in the console.
+
+3. Ensure it works.

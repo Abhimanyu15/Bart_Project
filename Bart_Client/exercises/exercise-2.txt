@@ -1,0 +1,8 @@
+Exercise 2
+
+1. Add a table element and its related elements to the CarTool component to display a table of cars. The table should have six columns: Id, Make, Model, Year, Color, Price. Pretty please with sugar on top, display column headers.
+
+2. Display two rows of cars. Use the id value of 1 for the first car, and 2 for the second car. Fill in the other columns as appropriate. 
+
+3. Load the page and ensure everything works.
+

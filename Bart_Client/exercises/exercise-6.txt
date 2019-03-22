@@ -1,0 +1,8 @@
+Exercise 6
+
+1. Add a form to the CarTool to collect the make, model, year, color and price of a new car.
+
+2. Take the collected car data, calculate the next id, and add the new car to the array of cars.
+
+3. Ensure the table of cars is updated.
+
